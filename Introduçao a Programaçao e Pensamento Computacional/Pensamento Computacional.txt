@@ -1,0 +1,8 @@
+Pensamento computacional
+Sistematico e eficiente, formulaçao e resoluçao de problemas.
+Baseado em 4 pilares:
+-Decomposiçao(Dividir um problema complexo em subproblemas, possibilitando atacar um problema de cada vez)
+-Reconhecimento de padroes(Identificar padroes ou tendencias)
+-Abstraçao(Parametrizaçao/generalizaçao de um problema)
+-Design de algoritmos(Input->Operator->Output) 
+OVERVIEW: Processo Continuo(Define uma soluçao, testa a soluçao e aperfeiçoamento da soluçao encontrada)
